@@ -44,7 +44,7 @@ Common applications of Wi-Fi deauthentication include network monitoring, testin
 ##  Overview
 
 <code>► Overview of Wi-Fi Deauthentication with Python
-
+<br>
 Wi-Fi deauthentication using Python involves leveraging the capabilities of Python programming to perform network security tasks, specifically disconnecting devices from Wi-Fi networks through deauthentication attacks. This technique is typically used for ethical hacking, network testing, or ensuring network security.
 Understanding Wi-Fi Deauthentication
 
