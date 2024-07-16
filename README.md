@@ -65,9 +65,9 @@ Applications of Python for Wi-Fi Deauthentication
    > 2. Network Monitoring: Python scripts can continuously monitor Wi-Fi networks for suspicious activities and initiate defensive actions like deauthentication when anomalies are detected.
 
    > 3. Security Research: Researchers and developers use Python to experiment with new techniques for securing Wi-Fi networks or developing countermeasures against deauthentication attacks.
-
+<br>
 Getting Started with Python for Wi-Fi Deauthentication
-
+<br>
 To get started with Python for Wi-Fi deauthentication:
 
    > 1. Install Python: Ensure Python is installed on your system. Python 3.x is recommended.
@@ -77,7 +77,7 @@ To get started with Python for Wi-Fi deauthentication:
    > 3. Write Scripts: Develop Python scripts that utilize the chosen library to send deauthentication frames to specific devices or across a network.
 
    > 4. Execute Scripts: Run your Python scripts to initiate and monitor Wi-Fi deauthentication attacks, observing their impact on target devices and network behavior.
-
+<br>
 Conclusion
 <br>
 Python empowers security professionals and developers with a versatile toolkit for implementing Wi-Fi deauthentication attacks and related network security tasks. By leveraging Python's capabilities, practitioners can enhance their understanding of network vulnerabilities and strengthen defenses against malicious activities in Wi-Fi environments.</code>
@@ -86,7 +86,31 @@ Python empowers security professionals and developers with a versatile toolkit f
 
 ##  Features
 
-<code>► INSERT-TEXT-HERE</code>
+<code> ► 
+
+Wi-Fi deauthentication, as a technique in network security, encompasses several key features and functionalities that make it a valuable tool for both defensive and offensive purposes. Here are the main features of Wi-Fi deauthentication:
+
+   1. Forceful Disconnection: Wi-Fi deauthentication allows for the forceful disconnection of devices from a Wi-Fi network without requiring authentication credentials. This is achieved by sending deauthentication frames (packets) to targeted devices.
+
+   2. Protocol Exploitation: It exploits vulnerabilities in the IEEE 802.11 protocol to send specially crafted management frames that appear legitimate to the devices, prompting them to disconnect from the network.
+
+   3. Stealth Operations: Deauthentication attacks can be performed discreetly, without alerting users or administrators of the network, making them suitable for testing network defenses and security posture.
+
+   4. Network Monitoring: It serves as a means to monitor network security by detecting unauthorized devices or preventing unauthorized access attempts. Administrators can use deauthentication to enforce security policies and ensure compliance.
+
+   5. Penetration Testing: Security professionals use deauthentication as part of penetration testing (pen testing) to evaluate the resilience of Wi-Fi networks against attacks and to identify potential vulnerabilities.
+
+   6. Defense Mechanism: While primarily used for offensive security practices, understanding deauthentication helps in developing defensive strategies against such attacks, such as implementing intrusion detection systems (IDS) or network monitoring tools.
+
+   7. Scriptable Automation: Deauthentication attacks can be automated through scripting languages like Python, allowing for the creation of custom tools and frameworks for testing and security research.
+
+   8. Legal Considerations: It's important to note that performing Wi-Fi deauthentication attacks without proper authorization is illegal in many jurisdictions unless conducted under controlled conditions for legitimate security testing and research purposes.
+
+   9. Impact Assessment: By initiating deauthentication attacks, security professionals can assess the impact on network performance, device behavior, and user experience, helping to refine network security policies and configurations.
+
+   10. Educational Purposes: Understanding how deauthentication attacks work and their potential impact helps in educating network administrators, developers, and security practitioners about Wi-Fi security best practices and defense strategies.
+
+Overall, Wi-Fi deauthentication plays a crucial role in the realm of network security by providing insights into vulnerabilities, enabling proactive defense measures, and supporting responsible security testing and research efforts. </code>
 
 ---
 
