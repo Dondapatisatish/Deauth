@@ -5,7 +5,13 @@
     <h1 align="center">DEAUTH</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
+    <em><code>►
+Wi-Fi deauthentication, often abbreviated as Wi-Fi deauth, refers to a technique used in network security to disconnect devices from a Wi-Fi network forcefully. This method is typically employed to mitigate security risks by terminating unauthorized or suspicious connections.
+
+In practical terms, Wi-Fi deauthentication works by sending specially crafted packets (deauthentication frames) to targeted devices, prompting them to disconnect from the network. This process does not require authentication credentials but exploits the inherent vulnerability of Wi-Fi communication protocols.
+
+Common applications of Wi-Fi deauthentication include network monitoring, testing network security defenses, and enforcing policies on network access. It serves as a valuable tool for administrators and security professionals to maintain the integrity and confidentiality of Wi-Fi networks against potential threats and unauthorized access attempts.</code></em>
+
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
@@ -181,4 +187,3 @@ This project is protected under the [MIT](https://github.com/Dondapatisatish/Dea
 [**Return**](#-overview)
 
 ---
-
