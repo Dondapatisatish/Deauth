@@ -87,7 +87,7 @@ Python empowers security professionals and developers with a versatile toolkit f
 ##  Features
 
 <code> ► 
-
+<br>
 Wi-Fi deauthentication, as a technique in network security, encompasses several key features and functionalities that make it a valuable tool for both defensive and offensive purposes. Here are the main features of Wi-Fi deauthentication:
 
    1. Forceful Disconnection: Wi-Fi deauthentication allows for the forceful disconnection of devices from a Wi-Fi network without requiring authentication credentials. This is achieved by sending deauthentication frames (packets) to targeted devices.
@@ -109,7 +109,7 @@ Wi-Fi deauthentication, as a technique in network security, encompasses several 
    9. Impact Assessment: By initiating deauthentication attacks, security professionals can assess the impact on network performance, device behavior, and user experience, helping to refine network security policies and configurations.
 
    10. Educational Purposes: Understanding how deauthentication attacks work and their potential impact helps in educating network administrators, developers, and security practitioners about Wi-Fi security best practices and defense strategies.
-
+<br>
 Overall, Wi-Fi deauthentication plays a crucial role in the realm of network security by providing insights into vulnerabilities, enabling proactive defense measures, and supporting responsible security testing and research efforts. </code>
 
 ---
