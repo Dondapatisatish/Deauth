@@ -130,8 +130,10 @@ Overall, Wi-Fi deauthentication plays a crucial role in the realm of network sec
 
 | File                                                                                           | Summary                         |
 | ---                                                                                            | ---                             |
-| [requirements.txt](https://github.com/Dondapatisatish/Deauth.git/blob/master/requirements.txt) | <code>► INSERT-TEXT-HERE</code> |
-| [wifi_deauth.py](https://github.com/Dondapatisatish/Deauth.git/blob/master/wifi_deauth.py)     | <code>► INSERT-TEXT-HERE</code> |
+| [requirements.txt](https://github.com/Dondapatisatish/Deauth.git/blob/master/requirements.txt) | <code>► 
+scapy==2.4.5
+colorma==0.9.2 </code> |
+| [wifi_deauth.py](https://github.com/Dondapatisatish/Deauth.git/blob/master/wifi_deauth.py)     | <code>► wifi_deauth.py</code> |
 
 </details>
 
@@ -141,7 +143,7 @@ Overall, Wi-Fi deauthentication plays a crucial role in the realm of network sec
 
 **System Requirements:**
 
-* **Python**: `version x.y.z`
+* **Python**: `version 3.7 above`
 
 ###  Installation
 
@@ -169,7 +171,7 @@ Overall, Wi-Fi deauthentication plays a crucial role in the realm of network sec
 
 > Run Deauth using the command below:
 > ```console
-> $ python main.py
+> $ python wifi_deauth.py
 > ```
 
 ###  Tests
@@ -183,9 +185,13 @@ Overall, Wi-Fi deauthentication plays a crucial role in the realm of network sec
 
 ##  Project Roadmap
 
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+`Objective: Establish the foundational structure and basic functionality of the Wi-Fi deauthentication tool.
+
+- [X] `► Set up project repository and version control.`
+- [X] `► Define project scope and objectives.`
+- [X] `► Research and select necessary libraries and tools (e.g., Scapy for packet manipulation).`
+- [X] `► Implement basic command-line interface (CLI) for initiating deauthentication attacks.`
+
 
 ---
 
