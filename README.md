@@ -8,7 +8,7 @@
     <em><code>► INSERT-TEXT-HERE</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/Dondapatisatish/Deauth.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Dondapatisatish/Deauth.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Dondapatisatish/Deauth.git?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Dondapatisatish/Deauth.git?style=default&color=0080ff" alt="repo-language-count">
@@ -181,3 +181,4 @@ This project is protected under the [MIT](https://github.com/Dondapatisatish/Dea
 [**Return**](#-overview)
 
 ---
+
