@@ -5,8 +5,7 @@
     <h1 align="center">DEAUTH</h1>
 </p>
 <p align="center">
-    <em><code>►
-Wi-Fi deauthentication, often abbreviated as Wi-Fi deauth, refers to a technique used in network security to disconnect devices from a Wi-Fi network forcefully. This method is typically employed to mitigate security risks by terminating unauthorized or suspicious connections.
+    <em><code>► Wi-Fi deauthentication, often abbreviated as Wi-Fi deauth, refers to a technique used in network security to disconnect devices from a Wi-Fi network forcefully. This method is typically employed to mitigate security risks by terminating unauthorized or suspicious connections.
 
 In practical terms, Wi-Fi deauthentication works by sending specially crafted packets (deauthentication frames) to targeted devices, prompting them to disconnect from the network. This process does not require authentication credentials but exploits the inherent vulnerability of Wi-Fi communication protocols.
 
