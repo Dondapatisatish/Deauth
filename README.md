@@ -130,9 +130,7 @@ Overall, Wi-Fi deauthentication plays a crucial role in the realm of network sec
 
 | File                                                                                           | Summary                         |
 | ---                                                                                            | ---                             |
-| [requirements.txt](https://github.com/Dondapatisatish/Deauth.git/blob/master/requirements.txt) | <code>► 
-scapy==2.4.5
-colorma==0.9.2 </code> |
+| [requirements.txt](https://github.com/Dondapatisatish/Deauth.git/blob/master/requirements.txt) | <code>►scapy==2.4.5,<br> colorma==0.9.2 </code> |
 | [wifi_deauth.py](https://github.com/Dondapatisatish/Deauth.git/blob/master/wifi_deauth.py)     | <code>► wifi_deauth.py</code> |
 
 </details>
